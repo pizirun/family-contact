@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FamilyContact>
+    <familyContact>
+        <name>皮智刚</name>
+        <sex>男</sex>
+        <age>46</age>
+        <career>Programmer</career>
+    </familyContact>
+    <familyContact>
+        <name>皮培努</name>
+        <sex>男</sex>
+        <age>20</age>
+        <career>Student</career>
+    </familyContact>
+    <familyContact>
+        <name>聂佳盛</name>
+        <sex>男</sex>
+        <age>24</age>
+        <career>Programmer</career>
+    </familyContact>
+</FamilyContact>
